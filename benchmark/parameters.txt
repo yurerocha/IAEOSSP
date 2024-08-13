@@ -1,0 +1,37 @@
+Parameters of the satellites
+
+Min max roll angles for observation tasks (deg) 
+-30 30
+
+Min max roll angles for download tasks (deg) 
+-70 70
+
+On-board storage capacity 
+500
+
+Initial on-board storage 
+0
+
+Data gain rate for observation tasks (data/s) 
+1
+
+Data transfer rate for download tasks (data/s) 
+1
+
+Energy capacity 
+500
+
+Initial energy level 
+0
+
+Energy gain rate under sunlight (energy/s) 
+0.1
+
+Energy consumption rate for observation tasks (energy/s) 
+1
+
+Energy consumption rate for download tasks (energy/s) 
+0.1
+
+Energy consumption rate for changes in pose (energy/s) 
+2
